@@ -1,2 +1,2 @@
 # Gitbash
-Mempelajari git bash
+Mempelajari git bash. Belum paham.
